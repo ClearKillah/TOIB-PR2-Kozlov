@@ -44,6 +44,3 @@ $ touch /home/super-{Kozlov.F.S}/test_file.txt
 $ rm /home/super-{Kozlov.F.S}/test_file.txt
 
 ```
-
-
-[Скриншот 1 - Команды в терминале для представленных выше шагов ]
